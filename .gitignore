@@ -7,9 +7,10 @@
 
 # testing
 /coverage
-
+*/audio/
 # production
 /build
+nufi_dictionary_data.json
 
 # misc
 .DS_Store
